@@ -5,7 +5,7 @@ Exploratory data analysis of Shopify (SHOP) historical stock price data, coverin
 
 ## 🔍 Overview
 
-This notebook (`Task3EDA.ipynb`) performs an end-to-end EDA workflow on daily Shopify stock data:
+This notebook (`EDAtask3.ipynb`) performs an end-to-end EDA workflow on daily Shopify stock data:
 
 - Loads and inspects the raw dataset
 - Cleans missing values and duplicate rows
@@ -18,7 +18,7 @@ This notebook (`Task3EDA.ipynb`) performs an end-to-end EDA workflow on daily Sh
 
 - **File:** `SHOP_2015-05-21.csv`
 - **Expected columns:** `date`, `open`, `high`, `low`, `close`, `volume`
-- The notebook expects the CSV at `/content/SHOP_2015-05-21.csv` (default Google Colab path). Update this path if running locally.
+- The notebook expects the CSV at `/content/SHOP_2015-05-21_2025-03-16 - SHOP_2015-05-21_2025-03-16 (1).csv.xls` (default Google Colab path). Update this path if running locally.
 
 ## ⚙️ Workflow
 
